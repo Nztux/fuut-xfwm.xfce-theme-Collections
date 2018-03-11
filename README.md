@@ -1,37 +1,37 @@
 ## Preview
 
 ## Osx Palasu
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/Osx-palasu/Screenshot.png)
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/Osx-palasu/Screenshot.png) <br />
  
 ## Yurika
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/Yurika-ef/screensutt.png)
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/Yurika-ef/screensutt.png) <br />
 
 ## Black Paha
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/black-paha/screenshot.png)
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/black-paha/screenshot.png) <br />
 
 ## Blackdot
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/blackdot/ss.png)
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/blackdot/ss.png) <br />
 
 ## Nahlo Blue
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/nah-lo-blue/Screenshot - 111017 - 02:03:52.png)
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/nah-lo-blue/ss.png) <br />
 
 ## Nahlo Red
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/nah-lo-red/Screenshot - 110318 - 02:19:40.png)
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/nah-lo-red/ss.png) <br />
 
 ## Nest1
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/nest1/ss.png)
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/nest1/ss.png) <br />
 
 ## Nest2
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/nest2/ss.png)
+!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/nest2/ss.png) <br />
 
 ## One New
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/one-new.png)
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/one-new.png) <br />
 
 ## Wendows
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/wendows/ss.png)
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/wendows/ss.png) <br />
 
 ## White Love
-!(https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/whiteLove/Screenshot.png)
+![alt text]https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/whiteLove/Screenshot.png) <br />
 
 ## :D
 
