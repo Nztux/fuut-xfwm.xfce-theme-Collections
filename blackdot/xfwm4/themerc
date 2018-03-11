@@ -1,0 +1,13 @@
+button_offset=10
+button_spacing=13
+full_width_title=true
+
+title_horizontal_offset_=0
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+
+
+active_text_color=#454e5e
+inactive_text_color=#a4a8ae
+
+button_layout=O|HMC

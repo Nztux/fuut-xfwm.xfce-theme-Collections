@@ -1,0 +1,12 @@
+button_offset=11
+button_spacing=12
+full_width_title=true
+
+title_horizontal_offset_=0
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+
+
+active_text_color=#a0a6b3
+
+inactive_text_color=#bebebe
