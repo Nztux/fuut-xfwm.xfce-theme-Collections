@@ -1,1 +1,1 @@
-# fuut-xfwm.xfce-theme-Collections
+fuut'
