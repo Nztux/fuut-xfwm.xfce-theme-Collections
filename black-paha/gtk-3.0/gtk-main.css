@@ -1,0 +1,88 @@
+/* Default color scheme */ 
+@define-color bg_color #151515;
+@define-color fg_color #a3a3a3;
+@define-color base_color #151515;
+@define-color text_color #a3a3a3;
+@define-color selected_bg_color #151515;
+@define-color selected_fg_color #cf3a5e;
+@define-color tooltip_bg_color #151515;
+@define-color tooltip_fg_color #a3a3a3;
+
+/* misc colors used by gtk+ */   
+@define-color theme_base_color @base_color;
+@define-color theme_bg_color @bg_color;
+@define-color theme_selected_bg_color @selected_bg_color;
+@define-color theme_text_color @text_color;
+@define-color theme_fg_color @fg_color;
+@define-color theme_selected_fg_color @selected_fg_color; 
+@define-color theme_tooltip_bg_color @tooltip_bg_color;
+@define-color theme_tooltip_fg_color @tooltip_fg_color;
+@define-color insensitive_fg_color #151515;
+@define-color insensitive_entry_fg_color #151515;
+@define-color insensitive_entry_bg_color #151515;
+@define-color insensitive_borders #151515;
+@define-color separator_color #151515;
+@define-color entry_border_color #151515;
+@define-color entry_border_top_color #151515;
+@define-color view_selected_fg_color #cf3a5e;
+@define-color button_gradient_a #151515;
+@define-color button_gradient_b #151515;
+@define-color button_hover_gradient_a #151515;
+@define-color button_default_gradient_a #151515;
+@define-color button_default_gradient_b #151515;
+@define-color button_default_hover_gradient_a #151515;
+@define-color button_default_hover_gradient_b #151515;
+@define-color suggested_button_gradient_a #151515;
+@define-color suggested_button_gradient_b #151515;
+@define-color suggested_button_hover_gradient_a #151515;
+@define-color suggested_button_hover_gradient_b #151515;
+@define-color progressbar_pattern_a #151515;
+@define-color progressbar_pattern_b #151515;
+@define-color progressbar_border #cf3a5e;
+@define-color insensitive_bg_color #151515;
+@define-color linked_button_border #151515;
+@define-color linked_toolbutton_border #151515;
+@define-color border_hover_color #151515;
+@define-color toolbutton_gradient_a #151515;
+@define-color toolbutton_gradient_b #151515;
+@define-color toolbutton_hover_gradient_b #151515;
+@define-color insensitive_toolbutton_color #151515;
+@define-color tab_color #151515;
+@define-color trough_color #151515;
+@define-color trough_border_color #151515;
+@define-color scrollbar_color #202020;
+@define-color scrollbar_hover_color #202020;
+@define-color scrollbar_border_color #202020;
+@define-color scrollbar_hover_border_color #202020;
+@define-color menubar_color #151515;
+@define-color menubar_menuitem_fg_color #a3a3a3;
+@define-color cell_selected_color #151515;
+@define-color cell_hover_color #151515;
+@define-color panel_button_color #151515;
+@define-color panel_button_border_color #151515;
+@define-color notebook_tab_gradient_b white;
+/*********************
+ * Error/Warning/... *
+ *********************/
+@define-color link_color #1122CC;
+@define-color visited_link_color #660099;
+@define-color warning_color #994F00;
+@define-color error_color #FF2020;
+@define-color success_color #559900;
+
+@define-color info_fg_color rgb (51, 51, 51);
+@define-color info_text_shadow alpha(black, 0.1);
+@define-color info_bg_color rgb (254, 249, 219);
+@define-color warning_fg_color rgb (51, 51, 51);
+@define-color warning_text_shadow alpha(black, 0.1);
+@define-color warning_bg_color rgb (219, 222, 254);
+@define-color question_fg_color rgb (51, 51, 51);
+@define-color question_text_shadow alpha(black, 0.1);
+@define-color question_bg_color rgb (221, 254, 219);
+@define-color error_fg_color rgb (51, 51, 51);
+@define-color error_text_shadow alpha(black, 0.1);
+@define-color error_bg_color rgb (254, 219, 220);
+
+@import url("unity.css");
+@import url("gtk-widgets.css");
+@import url("gtk-widgets-assets.css");

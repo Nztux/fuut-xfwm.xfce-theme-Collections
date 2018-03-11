@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-fuut'
-=======
-# theme Collections
->>>>>>> 24baff632641f05de95d7599bc1634e6656cef89
+fuut theme
+
+## Yurika-ef
+![alt text](https://raw.githubusercontent.com/Fuut13/fuut-xfwm.xfce-theme-Collections/master/Yurika-ef/screensutt.png)
